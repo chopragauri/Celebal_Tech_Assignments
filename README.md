@@ -16,6 +16,7 @@ This repository contains my weekly assignments for the **Celebal Technologies Da
 | Week 4 | CIFAR-10 ANN & CNN | [chopragauri/cifar10-ann-cnn](https://github.com/chopragauri/cifar10-ann-cnn) |
 | Week 5 | Text Generation using RNN, LSTM & GRU | [Text_Generation_RNN_LSTM_GRU_Learning_Project_Solution.ipynb](./Text_Generation_RNN_LSTM_GRU_Learning_Project_Solution.ipynb) *(this repo)* |
 | Week 6 | MNIST Denoising Autoencoder | [week6_gauriChopra.ipynb](./week6_gauriChopra.ipynb) *(this repo)* |
+| Week 7 | Document Q&A System (RAG) | [week7_RAG/week7_gauriChopra.ipynb](./week7_RAG/week7_gauriChopra.ipynb) *(this repo)* |
 
 ---
 
