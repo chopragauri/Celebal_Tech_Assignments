@@ -17,7 +17,9 @@ This repository contains my weekly assignments for the **Celebal Technologies Da
 | Week 5 | Text Generation using RNN, LSTM & GRU | [Text_Generation_RNN_LSTM_GRU_Learning_Project_Solution.ipynb](./Text_Generation_RNN_LSTM_GRU_Learning_Project_Solution.ipynb) *(this repo)* |
 | Week 6 | MNIST Denoising Autoencoder | [week6_gauriChopra.ipynb](./week6_gauriChopra.ipynb) *(this repo)* |
 | Week 7 | Document Q&A System (RAG) | [week7_RAG/week7_gauriChopra.ipynb](./week7_RAG/week7_gauriChopra.ipynb) *(this repo)* |
+| Week 8 | Single Agent Pipeline | [week8_Single_Agent_Pipeline/week8_single_agent_pipeline.ipynb](./week8_Single_Agent_Pipeline/week8_single_agent_pipeline.ipynb) *(this repo)* |
+| ⭐ Final Project | Memory-Augmented Chatbot with Knowledge Graph & Hybrid RAG | [Final_Project/](./Final_Project) *(this repo)* |
 
 ---
 
-*From Week 5 onwards, all submissions are consolidated in this repository.*
+*From Week 5 onwards, all submissions are consolidated in this repository. The capstone **Final Project** (a full memory-augmented chatbot with LangGraph, hybrid RAG, Knowledge Graph, Supabase memory, and Google OAuth) is included in [`Final_Project/`](./Final_Project).*
