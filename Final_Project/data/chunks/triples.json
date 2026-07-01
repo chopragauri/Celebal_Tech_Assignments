@@ -1,0 +1,5336 @@
+[
+  {
+    "subject": "Aconvolutional neural network(CNN )",
+    "relation": "be",
+    "object": "type offeedforward",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "Aconvolutional neural network(CNN )",
+    "relation": "be",
+    "object": "neural networkthat",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "Aconvolutional neural network(CNN )",
+    "relation": "be",
+    "object": "learnsfeaturesvia filter ( orkernel ) optimization",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "Vanishing gradientsand exploding gradients ,",
+    "relation": "see",
+    "object": "duringbackpropagationin",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "Counter",
+    "relation": "be",
+    "object": "notinvariant translation",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "-",
+    "relation": "be",
+    "object": "notinvariant translation",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "convolutional neural networks",
+    "relation": "be",
+    "object": "notinvariant translation",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "Typical ways regularization , preventing overfitting ,",
+    "relation": "include",
+    "object": "penalizing parameters training ( weight decay )",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "activation function",
+    "relation": "be",
+    "object": "commonlyReLU",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "convolution operation",
+    "relation": "generate",
+    "object": "feature map , turn contributes input layer",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "Convolutional layers",
+    "relation": "convolve",
+    "object": "input",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "This",
+    "relation": "be",
+    "object": "similar response neuron visual cortex specific stimulus",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "convolutional neuron",
+    "relation": "process",
+    "object": "data",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "architecture",
+    "relation": "be",
+    "object": "impractical",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "fully connected layer image size 100 100",
+    "relation": "have",
+    "object": "10,000 weights foreachneuron",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "Convolution",
+    "relation": "reduce",
+    "object": "number free parameters",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "Fully connected layers",
+    "relation": "connect",
+    "object": "neuron",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "It",
+    "relation": "be",
+    "object": "same traditionalmultilayer perceptronneural network ( MLP )",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "neuron fully connected layer",
+    "relation": "receive",
+    "object": "input",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "neuron",
+    "relation": "receive",
+    "object": "input",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "area",
+    "relation": "be",
+    "object": "square ( e.g. 5 5 neurons )",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "receptive field",
+    "relation": "theentire",
+    "object": "previous layer",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "neuron",
+    "relation": "take",
+    "object": "input",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "number pixels receptive field",
+    "relation": "remain",
+    "object": "constant",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "single dilated convolutional layer",
+    "relation": "comprise",
+    "object": "filters",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "deconvolutional neural network",
+    "relation": "be",
+    "object": "reverse CNN",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "deconvolutional layer",
+    "relation": "be",
+    "object": "transpose convolutional layer",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "unpooling layer",
+    "relation": "expand",
+    "object": "layer",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "max - unpooling layer",
+    "relation": "be",
+    "object": "simplest",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "it",
+    "relation": "create",
+    "object": "periodic checkerboard artifact , fixed upscale - - convolve",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "Neighboring cells",
+    "relation": "have",
+    "object": "similar overlapping receptive fields",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "cortex hemisphere",
+    "relation": "represent",
+    "object": "contralateralvisual field",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "Hubel Wiesel",
+    "relation": "propose",
+    "object": "cascading model types cells use pattern recognition tasks",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "arrangement elements interconnections",
+    "relation": "be",
+    "object": "homogeneous given layer",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "This",
+    "relation": "be",
+    "object": "essential core convolutional netwo",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "paper",
+    "relation": "replace",
+    "object": "multiplication convolution",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "Waibelet al . phoneme recognition",
+    "relation": "be",
+    "object": "early convolutional network exhibiting shift - invariance",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "it",
+    "relation": "perform",
+    "object": "global optimization weights",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "it",
+    "relation": "perform",
+    "object": "local one",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "TDNNs",
+    "relation": "be",
+    "object": "convolutional networks share weights temporal dimension",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "Hampshire Waibel",
+    "relation": "introduce",
+    "object": "variant performs - dimensional convolution",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "resulting phoneme recognition system",
+    "relation": "be",
+    "object": "invariant time frequency shifts",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "TDNNs",
+    "relation": "improve",
+    "object": "performance far - distance speech recognition",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "Denker et al . ( 1989 )",
+    "relation": "design",
+    "object": "2 - D CNN system",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "approach",
+    "relation": "become",
+    "object": "foundation moderncomputer vision",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "they",
+    "relation": "use",
+    "object": "TDNNs",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "It",
+    "relation": "be",
+    "object": "superior commercial courtesy reading systems (",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "system",
+    "relation": "integrate",
+    "object": "inNCR check reading systems",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "they",
+    "relation": "win",
+    "object": "competitions",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "AlexNet , similar GPU - based CNN Alex Krizhevsky et",
+    "relation": "win",
+    "object": "Large Scale Visual Recognition Challenge2012.It",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "al",
+    "relation": "win",
+    "object": "Large Scale Visual Recognition Challenge2012.It",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": ".",
+    "relation": "win",
+    "object": "Large Scale Visual Recognition Challenge2012.It",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "Viebke et al 2019 )",
+    "relation": "parallelize",
+    "object": "CNN",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "connectivity nodes",
+    "relation": "cause",
+    "object": "thecurse dimensionality",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "inCIFAR-10",
+    "relation": "be",
+    "object": "32 wide , 32 high , 3 color channels )",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "images",
+    "relation": "be",
+    "object": "32 wide , 32 high , 3 color channels )",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "network architecture",
+    "relation": "take",
+    "object": "spatial structure data",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "convolutional layer",
+    "relation": "be",
+    "object": "core building block CNN",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "filter",
+    "relation": "isconvolvedacross",
+    "object": "width height input volume",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "network",
+    "relation": "learn",
+    "object": "filters activate",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "Stacking activation maps filters depth dimension",
+    "relation": "form",
+    "object": "output volume convolution layer",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "it",
+    "relation": "be",
+    "object": "impractical",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "strides",
+    "relation": "be",
+    "object": "incorrect",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "it",
+    "relation": "be",
+    "object": "completely necessary",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "it",
+    "relation": "be",
+    "object": "common",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "result convolution",
+    "relation": "be",
+    "object": "anactivation map",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "parameter sharing assumption",
+    "relation": "make",
+    "object": "sense",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "it",
+    "relation": "be",
+    "object": "commo",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "Pooling",
+    "relation": "provide",
+    "object": "downsampling",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "Pooling",
+    "relation": "aggregate",
+    "object": "information small regions input",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "exact location feature",
+    "relation": "be",
+    "object": "important rough location relative features",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "This",
+    "relation": "be",
+    "object": "idea use pooling convolutional neural networks",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "they",
+    "relation": "provide",
+    "object": "global translation invariance",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "common form max pooling",
+    "relation": "be",
+    "object": "layer filters size 2 2",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "channel max pooling ( CMP ) operation layer",
+    "relation": "conduct",
+    "object": "MP operation",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "0,1]}.Euclideanloss { \\displaystyle ( -\\infty , \\infty ) }",
+    "relation": "use",
+    "object": "forregressingtoreal - valuedlabels (",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "Hyperparameters",
+    "relation": "be",
+    "object": "settings control learning process",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "CNNs",
+    "relation": "use",
+    "object": "standard multilayer perceptron ( MLP )",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "Padding",
+    "relation": "be",
+    "object": "addition ( typically ) 0 - valued pixels borders image",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "padding applied",
+    "relation": "be",
+    "object": "one corresponding kernel dimension",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "convolutional layer 3x3 kernels",
+    "relation": "receive",
+    "object": "2 - pixel pad , 1 pixel image",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "stride",
+    "relation": "be",
+    "object": "number pixels analysis window moves iteration",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "number feature maps",
+    "relation": "control",
+    "object": "capacity",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "dilation 4",
+    "relation": "expand",
+    "object": "kernel",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "Convolution pooling layers CNN stride greater",
+    "relation": "be",
+    "object": "indeedequivariantto translations input",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "translation equivariance",
+    "relation": "imply",
+    "object": "translation invariance",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "solution complete translation invariance",
+    "relation": "avoid",
+    "object": "- sampling",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "strategies",
+    "relation": "include",
+    "object": "usingconformal prediction",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "CNNs",
+    "relation": "use",
+    "object": "types regularization",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "they",
+    "relation": "be",
+    "object": "prone overfitting",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "This",
+    "relation": "be",
+    "object": "biggest contribution dropout method",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "method",
+    "relation": "improve",
+    "object": "training speed",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "unit",
+    "relation": "receive",
+    "object": "input",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "DropConnect",
+    "relation": "be",
+    "object": "similar dropout",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "approach",
+    "relation": "be",
+    "object": "free hyperparameters",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "This input images , w",
+    "relation": "be",
+    "object": "similar explicitelastic deformationsof",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "filter size",
+    "relation": "affect",
+    "object": "number parameters",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "This",
+    "relation": "be",
+    "object": "equivalent \" zero norm \"",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "L2 regularization",
+    "relation": "be",
+    "object": "common form regularization",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "L1 regularization",
+    "relation": "be",
+    "object": "common",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "people",
+    "relation": "be",
+    "object": "good",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "This",
+    "relation": "be",
+    "object": "computationally intensive large data - sets",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "vectors neuronal activity represent pose",
+    "relation": "pose",
+    "object": "vectors",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "CNNs",
+    "relation": "use",
+    "object": "inimage",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "resulting system",
+    "relation": "have",
+    "object": "lowroot mean square error",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "highly ranked team",
+    "relation": "use",
+    "object": "CNN",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "winnerGoogLeNet(the foundation ofDeepDream )",
+    "relation": "increase",
+    "object": "mean averageprecisionof object detection",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "network",
+    "relation": "apply",
+    "object": "30 layers",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "performance convolutional neural networks ImageNet tests",
+    "relation": "be",
+    "object": "close humans",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "kinds images",
+    "relation": "trouble",
+    "object": "humans",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "- layered CNN",
+    "relation": "demonstrate",
+    "object": "ability spot faces wide range angles , including upside",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "They",
+    "relation": "use",
+    "object": "batches 128 images",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "They",
+    "relation": "use",
+    "object": "50,000 iterations",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "Video",
+    "relation": "be",
+    "object": "complex images",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "systems",
+    "relation": "extract",
+    "object": "behavioral sequences extended recordings",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "CNNs",
+    "relation": "use",
+    "object": "indrug discovery",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "AtomNet",
+    "relation": "discover",
+    "object": "chemical features ,",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "2001,Fogeland Chellapilla",
+    "relation": "publish",
+    "object": "papers showing h",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "it",
+    "relation": "beat",
+    "object": "traditional search program GNU 97 % games",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "Dilated convolutionsmight",
+    "relation": "enable",
+    "object": "- dimensional convolutional neural networks",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "Convolutional networks",
+    "relation": "provide",
+    "object": "improved forecasting performance",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "benchmark datasets",
+    "relation": "become",
+    "object": "available",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "training data",
+    "relation": "be",
+    "object": "available",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "Convolutional neural networks",
+    "relation": "require",
+    "object": "large amount training data",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "deep reinforcement learning models",
+    "relation": "precede",
+    "object": "it",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "Convolutional deep belief networks(CDBN )",
+    "relation": "have",
+    "object": "structure similar convolutional neural networks",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "they",
+    "relation": "exploit",
+    "object": "2D structure images , like CNNs",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "They",
+    "relation": "provide",
+    "object": "generic structure image signal processing tasks",
+    "source": "Convolutional_neural_network",
+    "title": "Convolutional neural network"
+  },
+  {
+    "subject": "Earlier designs",
+    "relation": "implement",
+    "object": "attention mechanism",
+    "source": "Attention_(machine_learning)",
+    "title": "Attention (machine learning)"
+  },
+  {
+    "subject": "Recurrent neural networks",
+    "relation": "favor",
+    "object": "information contained words end sentence",
+    "source": "Attention_(machine_learning)",
+    "title": "Attention (machine learning)"
+  },
+  {
+    "subject": "Attention",
+    "relation": "allow",
+    "object": "token equal access sentence directly , previous state",
+    "source": "Attention_(machine_learning)",
+    "title": "Attention (machine learning)"
+  },
+  {
+    "subject": "Transformers",
+    "relation": "become",
+    "object": "foundation models likeBERT",
+    "source": "Attention_(machine_learning)",
+    "title": "Attention (machine learning)"
+  },
+  {
+    "subject": "Transformers",
+    "relation": "become",
+    "object": "T5andgenerative pre - trained transformers(GPT",
+    "source": "Attention_(machine_learning)",
+    "title": "Attention (machine learning)"
+  },
+  {
+    "subject": "alignment",
+    "relation": "be",
+    "object": "multiple - - multiple",
+    "source": "Attention_(machine_learning)",
+    "title": "Attention (machine learning)"
+  },
+  {
+    "subject": "English",
+    "relation": "phraselook",
+    "object": "it",
+    "source": "Attention_(machine_learning)",
+    "title": "Attention (machine learning)"
+  },
+  {
+    "subject": "English",
+    "relation": "phraselook",
+    "object": "upcorresponds",
+    "source": "Attention_(machine_learning)",
+    "title": "Attention (machine learning)"
+  },
+  {
+    "subject": "English",
+    "relation": "phraselook",
+    "object": "tocherchez - le",
+    "source": "Attention_(machine_learning)",
+    "title": "Attention (machine learning)"
+  },
+  {
+    "subject": "variants attention",
+    "relation": "implement",
+    "object": "soft weights , Forconvolutional neural networks ,",
+    "source": "Attention_(machine_learning)",
+    "title": "Attention (machine learning)"
+  },
+  {
+    "subject": "variants",
+    "relation": "recombine",
+    "object": "encoder - inputs",
+    "source": "Attention_(machine_learning)",
+    "title": "Attention (machine learning)"
+  },
+  {
+    "subject": "correlation - style matrix dot products",
+    "relation": "provide",
+    "object": "- weighting coefficients",
+    "source": "Attention_(machine_learning)",
+    "title": "Attention (machine learning)"
+  },
+  {
+    "subject": "size attention matrix",
+    "relation": "be",
+    "object": "proportional square number input tokens",
+    "source": "Attention_(machine_learning)",
+    "title": "Attention (machine learning)"
+  },
+  {
+    "subject": "It",
+    "relation": "achieve",
+    "object": "this",
+    "source": "Attention_(machine_learning)",
+    "title": "Attention (machine learning)"
+  },
+  {
+    "subject": "attention maps",
+    "relation": "be",
+    "object": "class - sensitive",
+    "source": "Attention_(machine_learning)",
+    "title": "Attention (machine learning)"
+  },
+  {
+    "subject": "matrixQ{\\displaystyle Q}containsm{\\displaystyle m}queries",
+    "relation": "contain",
+    "object": "anunorderedset ofn{\\displaystyle n}key - value pairs",
+    "source": "Attention_(machine_learning)",
+    "title": "Attention (machine learning)"
+  },
+  {
+    "subject": "matricesK , V{\\displaystyle K ,",
+    "relation": "contain",
+    "object": "anunorderedset ofn{\\displaystyle n}key - value pairs",
+    "source": "Attention_(machine_learning)",
+    "title": "Attention (machine learning)"
+  },
+  {
+    "subject": "Self - attention",
+    "relation": "be",
+    "object": "same cross",
+    "source": "Attention_(machine_learning)",
+    "title": "Attention (machine learning)"
+  },
+  {
+    "subject": "Natural language processing(NLP )",
+    "relation": "be",
+    "object": "processing ofnatural languageinformation acomputer",
+    "source": "Natural_language_processing",
+    "title": "Natural language processing"
+  },
+  {
+    "subject": "Natural language processing",
+    "relation": "have",
+    "object": "roots",
+    "source": "Natural_language_processing",
+    "title": "Natural language processing"
+  },
+  {
+    "subject": "computer",
+    "relation": "emulate",
+    "object": "natural language understanding ( NLP tasks )",
+    "source": "Natural_language_processing",
+    "title": "Natural language processing"
+  },
+  {
+    "subject": "Symbolic approach ,",
+    "relation": "be",
+    "object": "approach AI general N",
+    "source": "Natural_language_processing",
+    "title": "Natural language processing"
+  },
+  {
+    "subject": "following",
+    "relation": "be",
+    "object": "list commonly researched tasks natural language processing",
+    "source": "Natural_language_processing",
+    "title": "Natural language processing"
+  },
+  {
+    "subject": "Some tasks",
+    "relation": "have",
+    "object": "direct real - world applications",
+    "source": "Natural_language_processing",
+    "title": "Natural language processing"
+  },
+  {
+    "subject": "it",
+    "relation": "be",
+    "object": "possible",
+    "source": "Natural_language_processing",
+    "title": "Natural language processing"
+  },
+  {
+    "subject": "\"Cognitive",
+    "relation": "scienceis",
+    "object": "interdisciplinary , scientific study mind processes",
+    "source": "Natural_language_processing",
+    "title": "Natural language processing"
+  },
+  {
+    "subject": "area computational linguistics",
+    "relation": "maintain",
+    "object": "strong ties cognitive studies",
+    "source": "Natural_language_processing",
+    "title": "Natural language processing"
+  },
+  {
+    "subject": "Ties cognitive linguistics",
+    "relation": "be",
+    "object": "part historical heritage NLP",
+    "source": "Natural_language_processing",
+    "title": "Natural language processing"
+  },
+  {
+    "subject": "Generative Pre - trained Transformer 3(GPT-3 )",
+    "relation": "be",
+    "object": "alarge language modelreleased byOpenAIin 2020",
+    "source": "GPT-3",
+    "title": "GPT-3"
+  },
+  {
+    "subject": "GPT-3",
+    "relation": "have",
+    "object": "175 billionparameters , 16 - bit precision ,",
+    "source": "GPT-3",
+    "title": "GPT-3"
+  },
+  {
+    "subject": "It",
+    "relation": "have",
+    "object": "acontext windowsize 2,048tokens",
+    "source": "GPT-3",
+    "title": "GPT-3"
+  },
+  {
+    "subject": "Others",
+    "relation": "receive",
+    "object": "output",
+    "source": "GPT-3",
+    "title": "GPT-3"
+  },
+  {
+    "subject": "OpenAI researchers engineers",
+    "relation": "publish",
+    "object": "paper",
+    "source": "GPT-3",
+    "title": "GPT-3"
+  },
+  {
+    "subject": "students",
+    "relation": "develop",
+    "object": "particular learning style",
+    "source": "GPT-3",
+    "title": "GPT-3"
+  },
+  {
+    "subject": "Others",
+    "relation": "develop",
+    "object": "particular learning style",
+    "source": "GPT-3",
+    "title": "GPT-3"
+  },
+  {
+    "subject": "team",
+    "relation": "increase",
+    "object": "capacity GPT-3",
+    "source": "GPT-3",
+    "title": "GPT-3"
+  },
+  {
+    "subject": "Lambdalabs",
+    "relation": "estimate",
+    "object": "hypothetical cost $ 4.6 million dollars 355 years",
+    "source": "GPT-3",
+    "title": "GPT-3"
+  },
+  {
+    "subject": "it",
+    "relation": "require",
+    "object": "training distinct language tasks",
+    "source": "GPT-3",
+    "title": "GPT-3"
+  },
+  {
+    "subject": "training data",
+    "relation": "contain",
+    "object": "occasional toxic language GPT-3 occas",
+    "source": "GPT-3",
+    "title": "GPT-3"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "provide",
+    "object": "developers",
+    "source": "GPT-3",
+    "title": "GPT-3"
+  },
+  {
+    "subject": "authors",
+    "relation": "draw",
+    "object": "attention",
+    "source": "GPT-3",
+    "title": "GPT-3"
+  },
+  {
+    "subject": "Generative Pre - trained Transformer 3.5(GPT-3.5 )",
+    "relation": "be",
+    "object": "sub class GPT-3 Models created byOpenAIin 2022",
+    "source": "GPT-3",
+    "title": "GPT-3"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "include",
+    "object": "GPT-3.5",
+    "source": "GPT-3",
+    "title": "GPT-3"
+  },
+  {
+    "subject": "GPT-3.5 Browsing ( ALPHA ) model",
+    "relation": "incorporate",
+    "object": "ability access browse online information",
+    "source": "GPT-3",
+    "title": "GPT-3"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "make",
+    "object": "GPT-3.5",
+    "source": "GPT-3",
+    "title": "GPT-3"
+  },
+  {
+    "subject": "documents",
+    "relation": "supplement",
+    "object": "information LLM pre - existingtraining data",
+    "source": "Retrieval-augmented_generation",
+    "title": "Retrieval-augmented generation"
+  },
+  {
+    "subject": "this",
+    "relation": "enable",
+    "object": "LLM - basedchatbotsto access internal company data",
+    "source": "Retrieval-augmented_generation",
+    "title": "Retrieval-augmented generation"
+  },
+  {
+    "subject": "RAG",
+    "relation": "improve",
+    "object": "LLMs",
+    "source": "Retrieval-augmented_generation",
+    "title": "Retrieval-augmented generation"
+  },
+  {
+    "subject": "RAG",
+    "relation": "pull",
+    "object": "relevant text databases , uploaded documents , web sources",
+    "source": "Retrieval-augmented_generation",
+    "title": "Retrieval-augmented generation"
+  },
+  {
+    "subject": "RAG",
+    "relation": "be",
+    "object": "way improving LLM performance",
+    "source": "Retrieval-augmented_generation",
+    "title": "Retrieval-augmented generation"
+  },
+  {
+    "subject": "users",
+    "relation": "verify",
+    "object": "cited sources",
+    "source": "Retrieval-augmented_generation",
+    "title": "Retrieval-augmented generation"
+  },
+  {
+    "subject": "This",
+    "relation": "provide",
+    "object": "greater transparency",
+    "source": "Retrieval-augmented_generation",
+    "title": "Retrieval-augmented generation"
+  },
+  {
+    "subject": "LLMs",
+    "relation": "provide",
+    "object": "incorrect information",
+    "source": "Retrieval-augmented_generation",
+    "title": "Retrieval-augmented generation"
+  },
+  {
+    "subject": "approach",
+    "relation": "provide",
+    "object": "LLM",
+    "source": "Retrieval-augmented_generation",
+    "title": "Retrieval-augmented generation"
+  },
+  {
+    "subject": "RAG",
+    "relation": "use",
+    "object": "structured , structured data ( exampleknowledge graphs )",
+    "source": "Retrieval-augmented_generation",
+    "title": "Retrieval-augmented generation"
+  },
+  {
+    "subject": "model",
+    "relation": "feed",
+    "object": "relevant retrieved information",
+    "source": "Retrieval-augmented_generation",
+    "title": "Retrieval-augmented generation"
+  },
+  {
+    "subject": "LLM",
+    "relation": "generate",
+    "object": "output based query",
+    "source": "Retrieval-augmented_generation",
+    "title": "Retrieval-augmented generation"
+  },
+  {
+    "subject": "Dense vectors , encode meaning ,",
+    "relation": "be",
+    "object": "compact",
+    "source": "Retrieval-augmented_generation",
+    "title": "Retrieval-augmented generation"
+  },
+  {
+    "subject": "enhancements",
+    "relation": "improve",
+    "object": "way similarities calculated vector stores ( databases",
+    "source": "Retrieval-augmented_generation",
+    "title": "Retrieval-augmented generation"
+  },
+  {
+    "subject": "25 - time smaller network",
+    "relation": "get",
+    "object": "comparable perplexity",
+    "source": "Retrieval-augmented_generation",
+    "title": "Retrieval-augmented generation"
+  },
+  {
+    "subject": "method ( Retro )",
+    "relation": "incur",
+    "object": "high cost training runs original RAG scheme avoided",
+    "source": "Retrieval-augmented_generation",
+    "title": "Retrieval-augmented generation"
+  },
+  {
+    "subject": "Chunking",
+    "relation": "involve",
+    "object": "strategies breaking data vectors",
+    "source": "Retrieval-augmented_generation",
+    "title": "Retrieval-augmented generation"
+  },
+  {
+    "subject": "vector database searches",
+    "relation": "miss",
+    "object": "key facts needed answer user question",
+    "source": "Retrieval-augmented_generation",
+    "title": "Retrieval-augmented generation"
+  },
+  {
+    "subject": "RAG",
+    "relation": "prevent",
+    "object": "hallucinations LLMs",
+    "source": "Retrieval-augmented_generation",
+    "title": "Retrieval-augmented generation"
+  },
+  {
+    "subject": "It",
+    "relation": "be",
+    "object": "direct solution",
+    "source": "Retrieval-augmented_generation",
+    "title": "Retrieval-augmented generation"
+  },
+  {
+    "subject": "it",
+    "relation": "eliminate",
+    "object": "challenges",
+    "source": "Retrieval-augmented_generation",
+    "title": "Retrieval-augmented generation"
+  },
+  {
+    "subject": "models",
+    "relation": "generate",
+    "object": "answers",
+    "source": "Retrieval-augmented_generation",
+    "title": "Retrieval-augmented generation"
+  },
+  {
+    "subject": "This",
+    "relation": "enable",
+    "object": "model",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "GANs",
+    "relation": "be",
+    "object": "similar tomimicryinevolutionary biology",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "discriminator strategy set",
+    "relation": "be",
+    "object": "set ofMarkov kernels D :",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "discriminator strategy set",
+    "relation": "be",
+    "object": "on[0,1]{\\displaystyle",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "GAN game",
+    "relation": "be",
+    "object": "azero - sum game",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "generator",
+    "relation": "be",
+    "object": "adeconvolutional neural network",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "GANs",
+    "relation": "generate",
+    "object": "complete sample",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "Variational autoencodersmight",
+    "relation": "be",
+    "object": "universal approximators",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "section",
+    "relation": "provide",
+    "object": "some mathematical theory",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "rigorous definition GAN game",
+    "relation": "make",
+    "object": "following chang",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "D{\\displaystyle D}is",
+    "relation": "adeep",
+    "object": "neural networkfunction",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "GAN architecture",
+    "relation": "have",
+    "object": "main components",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "One",
+    "relation": "cast",
+    "object": "optimization",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "other",
+    "relation": "be",
+    "object": "decomposition G{\\displaystyle \\mu",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "one",
+    "relation": "compare",
+    "object": "GAN",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "Kingma Wellingand Rezende et",
+    "relation": "al.develope",
+    "object": "idea repa",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "Theorem(the optimal discriminator",
+    "relation": "compute",
+    "object": "Jensen Shannon divergence",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "optimal reply",
+    "relation": "be",
+    "object": "deterministic ,",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "optimal reply",
+    "relation": "be",
+    "object": "i.e. D(x)= D(x){\\displaystyle \\mu",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "optimal reply",
+    "relation": "be",
+    "object": "_",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "optimal reply",
+    "relation": "be",
+    "object": "D}(x)=\\delta _ { D(x)}}for functionD",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "=",
+    "relation": "ref+",
+    "object": "G{\\displaystyle \\mu",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "\\mu",
+    "relation": "ref+",
+    "object": "G{\\displaystyle \\mu",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "generator",
+    "relation": "mimic",
+    "object": "reference",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "D}(x)}[\\ln(y(1 - y))]}which",
+    "relation": "be",
+    "object": "maximized byy=12{\\displaystyle y={\\frac { 1}{2 } } }",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "strategy",
+    "relation": "be",
+    "object": "optimal generator",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "discriminator",
+    "relation": "have",
+    "object": "access functions formD { \\displaystyle D_{\\zeta",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "restricted strategy sets",
+    "relation": "take",
+    "object": "avanishingly small proportionof",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "restricted strategy sets",
+    "relation": "take",
+    "object": "entire strategy sets",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "it",
+    "relation": "identify",
+    "object": "generated samples",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "researchers",
+    "relation": "perceive",
+    "object": "root problem",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "state - - - art architecture , BigGAN ( 2019 ) ,",
+    "relation": "avoid",
+    "object": "mode collapse",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "It",
+    "relation": "be",
+    "object": "important",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "discriminator",
+    "relation": "distinguish",
+    "object": "G",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "Conditional GANs",
+    "relation": "be",
+    "object": "similar standard GANs",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "we",
+    "relation": "use",
+    "object": "conditional GAN",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "generator GAN game",
+    "relation": "generate",
+    "object": "G{\\displaystyle \\mu",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "generator GAN game",
+    "relation": "generate",
+    "object": "_",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "GAN game",
+    "relation": "be",
+    "object": "general framework",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "authors",
+    "relation": "demonstrate",
+    "object": "it",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "Self - attention GAN ( SAGAN):Starts DCGAN ,",
+    "relation": "add",
+    "object": "residually - connected standardself - attention modulesto",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "Self - attention GAN ( SAGAN):Starts DCGAN ,",
+    "relation": "add",
+    "object": "generator discriminator",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "Variational",
+    "relation": "autoencoder",
+    "object": "GAN",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "We",
+    "relation": "recast",
+    "object": "original GAN objective",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "Ex",
+    "relation": "ref",
+    "object": "[ ln ( 1 D(x))]minGLG(D",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "generator",
+    "relation": "receive",
+    "object": "labelc{\\displaystyle c",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "key idea InfoGAN",
+    "relation": "be",
+    "object": "Variational Mutual Information Maximization",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "key idea InfoGAN",
+    "relation": "be",
+    "object": "_",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "key idea InfoGAN",
+    "relation": "be",
+    "object": "Z},c\\sim \\mu _ { C}}[\\ln Q(c\\mid",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "key idea InfoGAN",
+    "relation": "be",
+    "object": "typeQ",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "generator strategies",
+    "relation": "be",
+    "object": "functionsG",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "generator strategies",
+    "relation": "be",
+    "object": ": Z X{\\displaystyle G:\\Omega _ { Z}\\to \\Omega _ { X } } ,",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "discriminator strategies",
+    "relation": "be",
+    "object": "functionsD",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "they",
+    "relation": "give",
+    "object": "abstract definition objective",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "they",
+    "relation": "give",
+    "object": "_ { E(x)}(dz)}is",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "they",
+    "relation": "give",
+    "object": "probability distribution X Z{\\displaystyle \\Omega",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "they",
+    "relation": "give",
+    "object": "_",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "we",
+    "relation": "use",
+    "object": "data augmentation",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "we",
+    "relation": "use",
+    "object": "\\displaystyle T:\\Omega \\to \\Omega",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "They",
+    "relation": "have",
+    "object": "exactly expected loss",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "_ { G}}where { \\displaystyle * }",
+    "relation": "be",
+    "object": "theMarkov kernel convolution",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "This",
+    "relation": "be",
+    "object": "invertible",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "we",
+    "relation": "recover",
+    "object": "{ \\displaystyle \\mu",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "SinGAN",
+    "relation": "push",
+    "object": "data augmentation",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "generatorG{\\displaystyle G}is",
+    "relation": "decompose",
+    "object": "G_{1}\\circ G_{2}\\circ \\cdots \\circ G_{N } } ,",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "StyleGAN family",
+    "relation": "be",
+    "object": "series architectures published byNvidia research division",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "it",
+    "relation": "decompose",
+    "object": "generator asG = G1 G2",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "it",
+    "relation": "decompose",
+    "object": "GN{\\displaystyle G",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "it",
+    "relation": "decompose",
+    "object": "=",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "Those fed lower layers",
+    "relation": "control",
+    "object": "large - scale styles",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "They",
+    "relation": "analyze",
+    "object": "problem",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "they",
+    "relation": "propose",
+    "object": "generator layers",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "One major concerns medical imaging",
+    "relation": "preserve",
+    "object": "patient privacy",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "researchers",
+    "relation": "face",
+    "object": "difficulties obtaining medical images research purposes",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "second network learns bygradient descentto",
+    "relation": "predict",
+    "object": "reactions environment patterns",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "people",
+    "relation": "have",
+    "object": "similar ideas",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "Adversarial machine",
+    "relation": "learningha",
+    "object": "uses",
+    "source": "Generative_adversarial_network",
+    "title": "Generative adversarial network"
+  },
+  {
+    "subject": "Machine learning(ML )",
+    "relation": "be",
+    "object": "field study inartificial intelligenceconcerned development",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "Statisticsandmathematical optimisationmethods",
+    "relation": "compose",
+    "object": "foundations machine learning",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "TheHebbian theoryofneuroninteraction",
+    "relation": "set",
+    "object": "groundwork",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "researchers",
+    "relation": "be",
+    "object": "interested having machines learn data",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "increasing emphasis thelogical , knowledge - based",
+    "relation": "approachcause",
+    "object": "rift AI machine learning",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "Work symbolic / knowledge - based learning",
+    "relation": "continue",
+    "object": "leading toinductive logic programming(ILP",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "we",
+    "relation": "define",
+    "object": "associated vector space , C (",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "connection",
+    "relation": "explain",
+    "object": "inHutter Prize ,",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "zip file compressed size",
+    "relation": "include",
+    "object": "zip file unzipping software",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "process",
+    "relation": "condense",
+    "object": "extensive datasets",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "Large language models(LLMs )",
+    "relation": "be",
+    "object": "eff",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "this",
+    "relation": "be",
+    "object": "analysis step ofknowledge discoveryin databases",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "Data mining",
+    "relation": "use",
+    "object": "machine learning methods",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "Machine learning",
+    "relation": "have",
+    "object": "intimate ties tooptimization",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "Conventional statistical analyses",
+    "relation": "require",
+    "object": "priori selection model suitable study data set",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "major framework",
+    "relation": "be",
+    "object": "theprobably approximately correct",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "learning theory",
+    "relation": "yield",
+    "object": "guarantees performance algorithms",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "probabilistic bounds performance",
+    "relation": "be",
+    "object": "common",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "complexity hypothesis",
+    "relation": "match",
+    "object": "complexity function underlying data",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "model",
+    "relation": "underfitte",
+    "object": "data",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "theorists",
+    "relation": "study",
+    "object": "time complexity feasibility learning",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "input",
+    "relation": "be",
+    "object": "incoming email",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "Unsupervised learning algorithms",
+    "relation": "find",
+    "object": "structures data labelled",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "unsupervised learning algorithms",
+    "relation": "identify",
+    "object": "commonalities data",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "Cluster analysis",
+    "relation": "be",
+    "object": "assignment set observations subsets ( calledclusters )",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "andsupervised learning(with",
+    "relation": "label",
+    "object": "training data",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "Some training examples",
+    "relation": "miss",
+    "object": "training labels",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "labels",
+    "relation": "be",
+    "object": "cheaper obtain",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "reinforcement learning",
+    "relation": "algorithm",
+    "object": "usedynamic programmingtechniques",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "Reinforcement learning algorithms",
+    "relation": "assume",
+    "object": "knowledge exact mathematical model MDP",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "one",
+    "relation": "be",
+    "object": "behavioural environment behaves",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "CAA",
+    "relation": "learn",
+    "object": "goal - seeking behaviour",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "This",
+    "relation": "replace",
+    "object": "manualfeature engineering",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "popularheuristicmethod sparse dictionary learning",
+    "relation": "be",
+    "object": "thek - SVDalgorithm",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "interesting objects",
+    "relation": "be",
+    "object": "rare",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "cluster analysis",
+    "relation": "be",
+    "object": "able detect micro - clusters formed patterns",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "algorithm",
+    "relation": "be",
+    "object": "able detect micro - clusters formed patterns",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "Unsupervised anomaly detection techniques",
+    "relation": "detect",
+    "object": "anomalies",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "Supervised anomaly detection techniques",
+    "relation": "require",
+    "object": "data set",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "Rakesh Agrawal ,",
+    "relation": "introduce",
+    "object": "association rules",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "Tomasz Imieli skiand Arun Swami",
+    "relation": "introduce",
+    "object": "association rules",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "association rule learning",
+    "relation": "consider",
+    "object": "order items transaction transactions",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "learning algorithm",
+    "relation": "adjust",
+    "object": "model internal parameters",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "connection",
+    "relation": "transmit",
+    "object": "information , \" signal \" , artificial neuron",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "artificial neuron receives signal",
+    "relation": "process",
+    "object": "it",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "signal connection artificial neurons",
+    "relation": "be",
+    "object": "areal number",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "Artificial neurons edges",
+    "relation": "have",
+    "object": "aweightthat adjusts",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "Artificial neurons",
+    "relation": "have",
+    "object": "threshold",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "successful applications deep learning",
+    "relation": "be",
+    "object": "computer vision speech recognition",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "Decision tree learning",
+    "relation": "use",
+    "object": "adecision treeas",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "decision tree",
+    "relation": "describe",
+    "object": "data",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "random selection RFR training",
+    "relation": "enable",
+    "object": "model",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "RFR",
+    "relation": "generate",
+    "object": "independent decision trees",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "latter",
+    "relation": "be",
+    "object": "extended byregularisationmethods mitigate overfitting bias",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "Multivariate linear",
+    "relation": "regressionextend",
+    "object": "concept linear regression",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "It",
+    "relation": "be",
+    "object": "particularly useful",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "Bayesian network",
+    "relation": "represent",
+    "object": "probabilistic relationships diseases symptoms",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "Bayesian networks",
+    "relation": "be",
+    "object": "calleddynamic Bayesian networks",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "computational complexity algorithms",
+    "relation": "be",
+    "object": "dependent number propositions ( classes )",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "It",
+    "relation": "provide",
+    "object": "interpretable models",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "methods",
+    "relation": "extract",
+    "object": "patterns data evolve rules",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "machine learning models",
+    "relation": "require",
+    "object": "high quantity reliable data",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "Data training set",
+    "relation": "be",
+    "object": "varied acorpus text ,",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "applied correctly , machine learning algorithms ( MLAs )",
+    "relation": "utilise",
+    "object": "wide range company characteristics",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "\" black box theory \"",
+    "relation": "pose",
+    "object": "significant challenge",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "XAI",
+    "relation": "be",
+    "object": "implementation social right explanation",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "term",
+    "relation": "draw",
+    "object": "loose analogy",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "Symbolic artificial intelligencemodels",
+    "relation": "produce",
+    "object": "hallucinations",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "Researchers",
+    "relation": "demonstrate",
+    "object": "howbackdoorscan",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "investigators",
+    "relation": "report",
+    "object": "positive rate(FPR",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "rates",
+    "relation": "be",
+    "object": "ratios fail reveal numerators denominators",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "It",
+    "relation": "cover",
+    "object": "emerging potential future challenges asmachine ethics(how",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "Systems trained datasets collected biases",
+    "relation": "exhibit",
+    "object": "biases",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "female faculty",
+    "relation": "make",
+    "object": "16.1 % \" faculty members focus AI universities world",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "machines trained languagecorporawill",
+    "relation": "learn",
+    "object": "biases",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "Google Photos",
+    "relation": "tag",
+    "object": "couple black people",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "It",
+    "relation": "be",
+    "object": "powerful tool beginning understand",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "This",
+    "relation": "be",
+    "object": "especially true",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "AI - specific enhancements ,",
+    "relation": "displace",
+    "object": "CPUs",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "TPUs",
+    "relation": "become",
+    "object": "key component AI infrastructure",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "term \" physical neural network \"",
+    "relation": "highlight",
+    "object": "use physical hardware computation",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "Embedded machine learning",
+    "relation": "be",
+    "object": "sub",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "Embedded machine learning",
+    "relation": "be",
+    "object": "-",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "Embedded machine learning",
+    "relation": "be",
+    "object": "field machine learning",
+    "source": "Machine_learning",
+    "title": "Machine learning"
+  },
+  {
+    "subject": "origin RNN",
+    "relation": "be",
+    "object": "neuroscience",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "he",
+    "relation": "describe",
+    "object": "closed - loop cross",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "he",
+    "relation": "describe",
+    "object": "-",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "TheIsing",
+    "relation": "develop",
+    "object": "simple statistical mechanical model magnets equilibrium",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "Glauberin 1963",
+    "relation": "study",
+    "object": "Ising model evolving time",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "he",
+    "relation": "extend",
+    "object": "this",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "It",
+    "relation": "become",
+    "object": "standard model study neural networks statistical mechanics",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "early influential works",
+    "relation": "be",
+    "object": "theJordan network(1986 ) theElman network(1990 )",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "neural history compressor system",
+    "relation": "solve",
+    "object": "\" Deep Learning \" task",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "They",
+    "relation": "become",
+    "object": "state art machine translation",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "RNN",
+    "relation": "have",
+    "object": "architecture , including LSTM , GRU , etc",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "it",
+    "relation": "transform",
+    "object": "input",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "illustration right",
+    "relation": "be",
+    "object": "misleading",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "RNN",
+    "relation": "process",
+    "object": "data",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "PixelRNN",
+    "relation": "process",
+    "object": "- dimensional data",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "n}}Thediagonal",
+    "relation": "bilstmuse",
+    "object": "LSTMs",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "One",
+    "relation": "process",
+    "object": "it",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "other",
+    "relation": "process",
+    "object": "it",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "Fully recurrent neural networks(FRNN )",
+    "relation": "connect",
+    "object": "outputs neurons",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "it",
+    "relation": "be",
+    "object": "afully connected network",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "This",
+    "relation": "be",
+    "object": "general neural network topology",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "Hopfield network",
+    "relation": "perform",
+    "object": "asrobustcontent - addressable memory",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "fixed - connections",
+    "relation": "save",
+    "object": "copy previous values hidden uni",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "applications",
+    "relation": "use",
+    "object": "stacks LSTMs , called \" deep LSTM \"",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "They",
+    "relation": "have",
+    "object": "fewer parameters LSTM",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "Echo state networks(ESN )",
+    "relation": "have",
+    "object": "sparsely connected random hidden layer",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "weights output neurons",
+    "relation": "be",
+    "object": "part network change ( trained )",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "ESNs",
+    "relation": "be",
+    "object": "good reproducing certaintime series",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "neural computers(DNCs )",
+    "relation": "be",
+    "object": "extension neural Turing machines",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "Neural network pushdown automata(NNPDA )",
+    "relation": "be",
+    "object": "similar NTMs",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "they",
+    "relation": "be",
+    "object": "similar complexity recognizers",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "Recurrent neural networks areTuring completeand",
+    "relation": "run",
+    "object": "arbitrary programs",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "Teacher",
+    "relation": "forcingmake",
+    "object": "it",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "major problem gradient descent standard RNN architectures",
+    "relation": "be",
+    "object": "thaterror gradients",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "CRBP algorithm",
+    "relation": "minimize",
+    "object": "global error term",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "fact",
+    "relation": "improve",
+    "object": "stability algorithm",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "It",
+    "relation": "use",
+    "object": "BPTT batch algorithm ,",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "fitness function",
+    "relation": "evaluate",
+    "object": "stopping criterion",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "neuron layer",
+    "relation": "receive",
+    "object": "past state",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "Deep networks",
+    "relation": "train",
+    "object": "usingskip connections",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "unpredictable inputs RNN hierarchy",
+    "relation": "become",
+    "object": "inputs higher level RNN , recomputes internal state rarely",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "this",
+    "relation": "help",
+    "object": "automatizer",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "Long short - term memory",
+    "relation": "be",
+    "object": "example",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "Hierarchical recurrent neural networks ( HRNN )",
+    "relation": "connect",
+    "object": "neurons",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "Hierarchical recurrent neural networks",
+    "relation": "be",
+    "object": "useful inforecasting",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "Evaluation substantial dataset CPI - U index",
+    "relation": "demonstrate",
+    "object": "superior performance HRNN model",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "subnetwork",
+    "relation": "be",
+    "object": "feed - fo",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "DARPA'sSyNAPSE",
+    "relation": "fund",
+    "object": "IBM Research HP Labs",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "dynamics memristive circuit",
+    "relation": "have",
+    "object": "advantage",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "RNN models neuroscience",
+    "relation": "be",
+    "object": "continuous - time",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "CTRNNs",
+    "relation": "apply",
+    "object": "toevolutionary roboticswhere",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "network graph",
+    "relation": "replace",
+    "object": "storage",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "Modern libraries",
+    "relation": "provide",
+    "object": "runtime - optimized implementations functionality",
+    "source": "Recurrent_neural_network",
+    "title": "Recurrent neural network"
+  },
+  {
+    "subject": "Bidirectional encoder representations transformers(BERT )",
+    "relation": "be",
+    "object": "alanguage modelintroduced October 2018 researchers atGoogle",
+    "source": "BERT_(language_model)",
+    "title": "BERT (language model)"
+  },
+  {
+    "subject": "It",
+    "relation": "use",
+    "object": "theencoder - transformerarchitecture",
+    "source": "BERT_(language_model)",
+    "title": "BERT (language model)"
+  },
+  {
+    "subject": "BERT",
+    "relation": "improve",
+    "object": "state art forlarge language models",
+    "source": "BERT_(language_model)",
+    "title": "BERT (language model)"
+  },
+  {
+    "subject": "BERT",
+    "relation": "learn",
+    "object": "contextual , latent representationsof tokens",
+    "source": "BERT_(language_model)",
+    "title": "BERT (language model)"
+  },
+  {
+    "subject": "It",
+    "relation": "improve",
+    "object": "onELMoand",
+    "source": "BERT_(language_model)",
+    "title": "BERT (language model)"
+  },
+  {
+    "subject": "BERT",
+    "relation": "be",
+    "object": "\" encoder - only\"transformerarchitecture",
+    "source": "BERT_(language_model)",
+    "title": "BERT (language model)"
+  },
+  {
+    "subject": "task head",
+    "relation": "be",
+    "object": "necessary",
+    "source": "BERT_(language_model)",
+    "title": "BERT (language model)"
+  },
+  {
+    "subject": "one",
+    "relation": "remove",
+    "object": "task head",
+    "source": "BERT_(language_model)",
+    "title": "BERT (language model)"
+  },
+  {
+    "subject": "section",
+    "relation": "describe",
+    "object": "embedding BERTBASE",
+    "source": "BERT_(language_model)",
+    "title": "BERT (language model)"
+  },
+  {
+    "subject": "one , BERTLARGE ,",
+    "relation": "be",
+    "object": "similar , larger",
+    "source": "BERT_(language_model)",
+    "title": "BERT (language model)"
+  },
+  {
+    "subject": "algorithm",
+    "relation": "sample",
+    "object": "sentences",
+    "source": "BERT_(language_model)",
+    "title": "BERT (language model)"
+  },
+  {
+    "subject": "linear layer \" pooler layer \" ,",
+    "relation": "discard",
+    "object": "output tokens",
+    "source": "BERT_(language_model)",
+    "title": "BERT (language model)"
+  },
+  {
+    "subject": "it",
+    "relation": "discard",
+    "object": "output tokens",
+    "source": "BERT_(language_model)",
+    "title": "BERT (language model)"
+  },
+  {
+    "subject": "Language models like ELMo , GPT-2 , BERT",
+    "relation": "spawn",
+    "object": "study \" BERTology \" , attempts interpret learned models",
+    "source": "BERT_(language_model)",
+    "title": "BERT (language model)"
+  },
+  {
+    "subject": "performance thesenatural language understandingtasks",
+    "relation": "be",
+    "object": "understood",
+    "source": "BERT_(language_model)",
+    "title": "BERT (language model)"
+  },
+  {
+    "subject": "I",
+    "relation": "hasfineblond",
+    "object": "hair",
+    "source": "BERT_(language_model)",
+    "title": "BERT (language model)"
+  },
+  {
+    "subject": "She",
+    "relation": "hasfineblond",
+    "object": "hair",
+    "source": "BERT_(language_model)",
+    "title": "BERT (language model)"
+  },
+  {
+    "subject": "one",
+    "relation": "mask",
+    "object": "tokens",
+    "source": "BERT_(language_model)",
+    "title": "BERT (language model)"
+  },
+  {
+    "subject": "one",
+    "relation": "mask",
+    "object": "[MASK",
+    "source": "BERT_(language_model)",
+    "title": "BERT (language model)"
+  },
+  {
+    "subject": "He",
+    "relation": "run",
+    "object": "company",
+    "source": "BERT_(language_model)",
+    "title": "BERT (language model)"
+  },
+  {
+    "subject": "BERT models",
+    "relation": "be",
+    "object": "influential",
+    "source": "BERT_(language_model)",
+    "title": "BERT (language model)"
+  },
+  {
+    "subject": "It",
+    "relation": "preserve",
+    "object": "BERT architecture ( slightly larger , 355 M parameters )",
+    "source": "BERT_(language_model)",
+    "title": "BERT (language model)"
+  },
+  {
+    "subject": "It",
+    "relation": "be",
+    "object": "one works multilingual language modeling scale",
+    "source": "BERT_(language_model)",
+    "title": "BERT (language model)"
+  },
+  {
+    "subject": "LLMs",
+    "relation": "be",
+    "object": "typically based ontransformerarchitecture",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "Generative pre - trained transformers(GPTs )",
+    "relation": "be",
+    "object": "type LLM pre - trained predict word",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "GPTs",
+    "relation": "be",
+    "object": "oftenfine - tunedto follow instructions",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "Google",
+    "relation": "transition",
+    "object": "translation service toneural machine translation(NMT",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "early NMT systems",
+    "relation": "use",
+    "object": "LSTM - basedencoder - decoder architectures",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "reveal",
+    "object": "high - level architecture number ofparametersof GPT-4",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "weights - available models",
+    "relation": "gain",
+    "object": "popularity",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "Mistral AI open - weight models",
+    "relation": "have",
+    "object": "permissiveApache License",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "Mistral 7B Mixtral 8x7B",
+    "relation": "have",
+    "object": "permissiveApache License",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "Open - weight LLMs",
+    "relation": "become",
+    "object": "influential",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "community - driven contributions open - weight models",
+    "relation": "improve",
+    "object": "efficiency performance",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "community - driven contributions open - weight models",
+    "relation": "improve",
+    "object": "asHugging Face",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "Cleaned datasets",
+    "relation": "increase",
+    "object": "training efficiency",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "LLM - generated content",
+    "relation": "pose",
+    "object": "problem",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "Training largest language models",
+    "relation": "need",
+    "object": "linguistic data naturally available",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "LLM",
+    "relation": "be",
+    "object": "type offoundation model(large X model ) trained language",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "Substantial infrastructure",
+    "relation": "be",
+    "object": "necessary training largest models",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "tendency larger models",
+    "relation": "be",
+    "object": "visible",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "qualifier \" large \" \" large language model \"",
+    "relation": "be",
+    "object": "inherently vague",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "LLMs",
+    "relation": "be",
+    "object": "- token predictors",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "attention mechanism",
+    "relation": "calculate",
+    "object": "\" soft \" weights token ,",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "small ( i.e. 117 M parameter sized)GPT-2model",
+    "relation": "have",
+    "object": "attention heads context window 1k tokens",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "Mixtures experts",
+    "relation": "reduce",
+    "object": "inference costs",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "float16",
+    "relation": "have",
+    "object": "16 bits , 2 bytes",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "Quantization",
+    "relation": "be",
+    "object": "classified asstatic quantizationif",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "Quantization",
+    "relation": "be",
+    "object": "quantization",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "instance",
+    "relation": "be",
+    "object": "able complete output",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "It",
+    "relation": "follow",
+    "object": "user instructions",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "Retrieval - augmented generation(RAG )",
+    "relation": "be",
+    "object": "approach integrates LLMs withdocument retrievalsystems",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "program",
+    "relation": "call",
+    "object": "tool",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "LLM",
+    "relation": "be",
+    "object": "anautonomous agentby ,",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "TheReflexion",
+    "relation": "methodconstruct",
+    "object": "agent learns multiple episodes",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "LLM",
+    "relation": "give",
+    "object": "record episode",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "user",
+    "relation": "break",
+    "object": "complex problem",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "LLM",
+    "relation": "receive",
+    "object": "prompt telling",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "LLM",
+    "relation": "mimic",
+    "object": "examples",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "additional step elicited prompting",
+    "relation": "improve",
+    "object": "correctness LLM",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "prompted model",
+    "relation": "exceed",
+    "object": "fine - tuned GPT-3",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "OpenAI",
+    "relation": "introduce",
+    "object": "concept",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "reasoning models",
+    "relation": "require",
+    "object": "computational resources query",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "Google PaLMmodel",
+    "relation": "be",
+    "object": "fine - tuned multimodal model applied torobotic control",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "Flamingo model",
+    "relation": "use",
+    "object": "cross - attention layers",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "LLMs",
+    "relation": "generate",
+    "object": "code",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "They",
+    "relation": "describe",
+    "object": "code",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "Services asGitHub",
+    "relation": "copilotoffer",
+    "object": "LLMs",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "ESMFold",
+    "relation": "run",
+    "object": "order magnitude faster thanAlphaFold2thanks",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "LLM",
+    "relation": "design",
+    "object": "proteins",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "reverse - engineering",
+    "relation": "lead",
+    "object": "approximate inferences performed LLM",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "authors",
+    "relation": "train",
+    "object": "small transformers onmodular arithmetic addition",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "resulting models",
+    "relation": "be",
+    "object": "reverse - engineered",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "( untuned ) LLMs",
+    "relation": "understand",
+    "object": "natural language",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "GPT-4",
+    "relation": "have",
+    "object": "natural deficits planning real - time learning",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "matter LLM exhibiting intelligence understanding",
+    "relation": "have",
+    "object": "main aspects model thought language computer system",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "NTL",
+    "relation": "modeloutline",
+    "object": "specific neural structures human brain shape",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "NTL",
+    "relation": "modeloutline",
+    "object": "nature thought language",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "LLM autoregressive , \" context tokeni{\\displaystyle }",
+    "relation": "be",
+    "object": "segment text appearing tokeni{\\displaystyle",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "LLM masked , \" context tokeni{\\displaystyle }",
+    "relation": "be",
+    "object": "segment text surrounding tokeni{\\displaystyle",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "relationship",
+    "relation": "establish",
+    "object": "byClaude Shannon",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "LLMs",
+    "relation": "be",
+    "object": "highly capable inlossless compression",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "Composite benchmarks",
+    "relation": "examine",
+    "object": "multiple capabilities",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "Results",
+    "relation": "be",
+    "object": "sensitive prompting method",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "Fact - checking misinformation detection benchmarks",
+    "relation": "be",
+    "object": "available",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "results",
+    "relation": "demonstrate",
+    "object": "moderate proficiency",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "LLM",
+    "relation": "answer",
+    "object": "No",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "resulting problems",
+    "relation": "be",
+    "object": "trivial humans",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "We",
+    "relation": "see",
+    "object": "fitness center sign",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "Hallucinations",
+    "relation": "represent",
+    "object": "fundamental challenge",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "LLMs",
+    "relation": "assign",
+    "object": "roles characteristics",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "models",
+    "relation": "associate",
+    "object": "nurses secretaries predominantly women engineers CEOs",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "model",
+    "relation": "assign",
+    "object": "higher priori probability specific answer tokens ( \" \" )",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "Language models",
+    "relation": "exhibit",
+    "object": "political biases",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "models",
+    "relation": "generate",
+    "object": "responses lean particular political ideologies viewpoints",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "2023",
+    "relation": "studypropose",
+    "object": "method circumventing LLM safety systems",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "American Sunlight Project",
+    "relation": "coin",
+    "object": "technique \" LLM grooming",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "Newer models",
+    "relation": "exhibit",
+    "object": "resistance jailbreaking separation user system prompts",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "Adversarial robustness",
+    "relation": "remain",
+    "object": "underdeveloped",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "LLM",
+    "relation": "produce",
+    "object": "safe code",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "Memorization",
+    "relation": "be",
+    "object": "emergent behavior early",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "It",
+    "relation": "be",
+    "object": "safe bet change industries time",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "simple classification tasks performed AI models",
+    "relation": "consume",
+    "object": "9 % asmartphonecharge 1,000 prompts",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "Text generation text summarization",
+    "relation": "require",
+    "object": "0.05 Wh prompt",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "each",
+    "relation": "require",
+    "object": "0.05 Wh prompt",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "efficient image generation model",
+    "relation": "use",
+    "object": "11.49 Wh image",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "AIweb crawlersmay",
+    "relation": "bypass",
+    "object": "methods usually block web scrapers ,",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "Researchers",
+    "relation": "raise",
+    "object": "concerns",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "Researchers",
+    "relation": "raise",
+    "object": "frequent use oflarge language",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "Researchers",
+    "relation": "raise",
+    "object": "modelscould weakencritical thinking",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "Proponents view",
+    "relation": "propose",
+    "object": "precautionary measures like moratoriums AI developmentand",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "Google",
+    "relation": "describe",
+    "object": "engineer claims",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "Kristina",
+    "relation": "develop",
+    "object": "this",
+    "source": "Large_language_model",
+    "title": "Large language model"
+  },
+  {
+    "subject": "They",
+    "relation": "associate",
+    "object": "andsocial networkssuch asLinkedInandFacebook",
+    "source": "Knowledge_graph",
+    "title": "Knowledge graph"
+  },
+  {
+    "subject": "theUniversity GroningenandUniversity",
+    "relation": "begin",
+    "object": "project called Knowledge Graphs",
+    "source": "Knowledge_graph",
+    "title": "Knowledge graph"
+  },
+  {
+    "subject": "early knowledge graphs",
+    "relation": "be",
+    "object": "topic - specific",
+    "source": "Knowledge_graph",
+    "title": "Knowledge graph"
+  },
+  {
+    "subject": "development large language models",
+    "relation": "expand",
+    "object": "interest knowledge graphs",
+    "source": "Knowledge_graph",
+    "title": "Knowledge graph"
+  },
+  {
+    "subject": "simpler definition",
+    "relation": "be",
+    "object": "useful",
+    "source": "Knowledge_graph",
+    "title": "Knowledge graph"
+  },
+  {
+    "subject": "virtual knowledge graphs",
+    "relation": "store",
+    "object": "information specialized databases",
+    "source": "Knowledge_graph",
+    "title": "Knowledge graph"
+  },
+  {
+    "subject": "This",
+    "relation": "complement",
+    "object": "estimates conceptual similarity",
+    "source": "Knowledge_graph",
+    "title": "Knowledge graph"
+  },
+  {
+    "subject": "Models generating useful knowledge graph embeddings",
+    "relation": "be",
+    "object": "domain graph neural networks ( GNNs).GNNs",
+    "source": "Knowledge_graph",
+    "title": "Knowledge graph"
+  },
+  {
+    "subject": "topology data structures afforded GNNs",
+    "relation": "provide",
+    "object": "convenient domain semi - supervised learning",
+    "source": "Knowledge_graph",
+    "title": "Knowledge graph"
+  },
+  {
+    "subject": "task",
+    "relation": "be",
+    "object": "known asknowledge graph entity alignment",
+    "source": "Knowledge_graph",
+    "title": "Knowledge graph"
+  },
+  {
+    "subject": "Entity alignment methods",
+    "relation": "use",
+    "object": "structural similarities generally non - isomorphic graphs",
+    "source": "Knowledge_graph",
+    "title": "Knowledge graph"
+  },
+  {
+    "subject": "researchers",
+    "relation": "find",
+    "object": "success",
+    "source": "Knowledge_graph",
+    "title": "Knowledge graph"
+  },
+  {
+    "subject": "token order",
+    "relation": "affect",
+    "object": "output",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "Modern transformers",
+    "relation": "overcome",
+    "object": "problem",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "early seq2seq models",
+    "relation": "have",
+    "object": "attention mechanism",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "vector",
+    "relation": "retain",
+    "object": "information original sentence",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "output vector",
+    "relation": "be",
+    "object": "able contain relevant information , degrading output",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "TheRNN searchmodel",
+    "relation": "introduce",
+    "object": "attention mechanism",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "parallelizability",
+    "relation": "be",
+    "object": "important factor widespread use",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "one co - authors",
+    "relation": "apply",
+    "object": "\" decoder - \" variation architecture",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "turn",
+    "relation": "stimulate",
+    "object": "new developments inconvolutional neural networks",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "plain transformer architecture",
+    "relation": "have",
+    "object": "difficulty converging",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "This",
+    "relation": "be",
+    "object": "\" pre - LN Transformer \"",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "pretrain dataset",
+    "relation": "be",
+    "object": "unlabeled large corpus , asThe Pile",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "TheT5",
+    "relation": "transformerreportdocument",
+    "object": "large number ofnatural languagepretraining tasks",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "classes",
+    "relation": "be",
+    "object": "independent specific modeling architecture transformer",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "loss function task",
+    "relation": "be",
+    "object": "same",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "following description",
+    "relation": "follow",
+    "object": "exactly transformer",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "we",
+    "relation": "write",
+    "object": "vectors row vectors",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "dot products , activation functions ) text",
+    "relation": "be",
+    "object": "mapping input text numerical representation",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "token",
+    "relation": "assign",
+    "object": "integer identifier",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "output side",
+    "relation": "produce",
+    "object": "sequence integer identifiers turned tokens",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "result",
+    "relation": "be",
+    "object": "legible text",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "it",
+    "relation": "multiply",
+    "object": "aone - hotrepresentation token identifier",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "practice",
+    "relation": "be",
+    "object": "calledweight tying",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "it",
+    "relation": "provide",
+    "object": "transformer model information",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "decoder layer",
+    "relation": "contain",
+    "object": "attention sublayers : ( 1 ) cross -",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "decoder layer",
+    "relation": "contain",
+    "object": "attention",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "decoder layer",
+    "relation": "contain",
+    "object": "( contextualized input token representations",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "feed - forward layers",
+    "relation": "contain",
+    "object": "most parameters",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "size(BERT).It",
+    "relation": "be",
+    "object": "larger embedding size",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "attention mechanism transformer architecture",
+    "relation": "be",
+    "object": "scaleddot - productattentionunits",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "output dimension attention head",
+    "relation": "be",
+    "object": "itshead dimensiondhead{\\displaystyle",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "output dimension attention head",
+    "relation": "be",
+    "object": "d_{\\text{head",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "It",
+    "relation": "be",
+    "object": "theoretically possible",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "It",
+    "relation": "have",
+    "object": "following dimensions",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "It",
+    "relation": "have",
+    "object": "12\\times 64=768 }",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "output tokeni=0{\\displaystyle i=0}shall",
+    "relation": "remain",
+    "object": "constant",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "This",
+    "relation": "ensure",
+    "object": "properties model similar toautoregressive models",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "sequence vectors",
+    "relation": "apply",
+    "object": "feed - forward layer vector",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "we",
+    "relation": "give",
+    "object": "input vectorsh0,h1",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "We",
+    "relation": "write",
+    "object": "it",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "encoder layer",
+    "relation": "take",
+    "object": "sequence input vectors",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "decoder layer",
+    "relation": "contain",
+    "object": "3 sublayers",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "final points detail",
+    "relation": "be",
+    "object": "theresidual connectionsandlayer normalization",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "They",
+    "relation": "express",
+    "object": "byx",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "They",
+    "relation": "resemble",
+    "object": "encoder decoder models",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "Google Translate",
+    "relation": "replace",
+    "object": "previous RNN - encoder RNN - decoder model",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "TheLlama",
+    "relation": "seriesandpalmuse",
+    "object": "SwiGLU;both GPT-1 BERTused GELU",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "Alternative activation functions",
+    "relation": "use",
+    "object": "feedforward module",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "normalization transformer",
+    "relation": "be",
+    "object": "different LayerNorm",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "examples",
+    "relation": "include",
+    "object": "ScaleNormand FixNorm",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "Transformers",
+    "relation": "use",
+    "object": "positional encoding methods sinusoidal",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "it",
+    "relation": "be",
+    "object": "anadditionalpositional encoder",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "andB{\\displaystyle B}is thelinear biasmatrix",
+    "relation": "define",
+    "object": "byB=(0123",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "andB{\\displaystyle B}is thelinear biasmatrix",
+    "relation": "define",
+    "object": "words , Bi , j = j i{\\displaystyle B_{i , j}=j - }",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "linear bias matrix",
+    "relation": "increase",
+    "object": "attention paid direction",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "It",
+    "relation": "be",
+    "object": "communication - avoiding algorithm",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "It",
+    "relation": "offer",
+    "object": "enhancements work partitioning parallelism",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "It",
+    "relation": "offer",
+    "object": "2x speed increase original FlashAttention",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "Benchmarks",
+    "relation": "reveal",
+    "object": "FlashAttention-2",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "Future developments",
+    "relation": "include",
+    "object": "optimization new hardware likeH100GPUs new data types",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "Multi - Query Attention",
+    "relation": "change",
+    "object": "Multihead Attention mechanism",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "we",
+    "relation": "verify",
+    "object": "all",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "single forward pass",
+    "relation": "create",
+    "object": "final embedding vector , un - embedded token probability",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "that",
+    "relation": "be",
+    "object": "quadratic",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "notable",
+    "relation": "architecture",
+    "object": "areDALL - E 1(2021",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "it",
+    "relation": "use",
+    "object": "decoder - transformer autoregressively generates text",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "Parti",
+    "relation": "be",
+    "object": "encoder decoder transformer , encoder processes text prompt",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "Phenaki",
+    "relation": "be",
+    "object": "text - - video model",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "transformer",
+    "relation": "have",
+    "object": "great success innatural language processing(NLP",
+    "source": "Transformer_(machine_learning_model)",
+    "title": "Transformer (deep learning)"
+  },
+  {
+    "subject": "field",
+    "relation": "take",
+    "object": "inspiration",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "CAPs",
+    "relation": "describe",
+    "object": "potentially causal connections input output",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "depth CAPs",
+    "relation": "be",
+    "object": "that network",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "CAP depth",
+    "relation": "be",
+    "object": "potentially unlimited",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "universally agreed - threshold depth",
+    "relation": "divide",
+    "object": "shallow learning",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "This",
+    "relation": "be",
+    "object": "important benefit",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "etymology term",
+    "relation": "be",
+    "object": "complicated",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "probabilistic interpretation",
+    "relation": "consider",
+    "object": "activation nonlinearity acumulative distribution function",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "RNNs",
+    "relation": "have",
+    "object": "cycles connectivity structure",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "learning algorithm",
+    "relation": "be",
+    "object": "functional one",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "working deep learning algorithm",
+    "relation": "be",
+    "object": "theGroup method data handling , method tr",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "rectifier",
+    "relation": "become",
+    "object": "popular activation function deep learning",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "Deep learning",
+    "relation": "architecture",
+    "object": "forconvolutional neural networks(CNNs",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": ".",
+    "relation": "republish",
+    "object": "it",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "Waibelto",
+    "relation": "apply",
+    "object": "CNN",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "It",
+    "relation": "use",
+    "object": "convolutions , weight sharing , backpropagation",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "Wei Zhang",
+    "relation": "apply",
+    "object": "backpropagation - trained CNN",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "1989,Yann LeCunet al",
+    "relation": "create",
+    "object": "CNN calledLeNetforrecognizing handwritten ZIP codeson mail",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": ".",
+    "relation": "create",
+    "object": "CNN calledLeNetforrecognizing handwritten ZIP codeson mail",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "Wei Zhang",
+    "relation": "implement",
+    "object": "CNN onoptical computinghardware",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "principle",
+    "relation": "use",
+    "object": "ingenerative adversarial networks(GANs",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "those",
+    "relation": "be",
+    "object": "computationally expensive",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "1988 network",
+    "relation": "become",
+    "object": "state art inprotein structure prediction ,",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "1988 network",
+    "relation": "become",
+    "object": "early application deep learning bioinformatics",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "raw features speech , waveforms ,",
+    "relation": "produce",
+    "object": "excellent larger - scale results",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "LSTM",
+    "relation": "become",
+    "object": "competitive traditional speech recognizers certain tasks",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "Santiago Fern ndez , Faustino Gomez ,",
+    "relation": "combine",
+    "object": "it",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "it",
+    "relation": "become",
+    "object": "RNN",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "deep learning revolution",
+    "relation": "start",
+    "object": "GPU - based computer vision",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "key advance deep learning revolution",
+    "relation": "be",
+    "object": "hardware advances , especially GPU",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "They",
+    "relation": "report",
+    "object": "70 times faster training",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "They",
+    "relation": "show",
+    "object": "howmax - poolingCNNs",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "They",
+    "relation": "show",
+    "object": "improved performance",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "state art",
+    "relation": "train",
+    "object": "\" deep neural network \" w",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "generation GAN",
+    "relation": "reach",
+    "object": "popular success",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "Diffusion",
+    "relation": "models(2015)eclipse",
+    "object": "GANs",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "Diffusion",
+    "relation": "models(2015)eclipse",
+    "object": "andStable Diffusion(2022",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "Yoshua Bengio , Geoffrey HintonandYann LeCunwere",
+    "relation": "award",
+    "object": "2018Turing",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "networksthat",
+    "relation": "constitute",
+    "object": "animal brains",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "They",
+    "relation": "find",
+    "object": "use",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "connection ( synapse ) neurons",
+    "relation": "transmit",
+    "object": "signal",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "receiving ( postsynaptic ) neuron",
+    "relation": "process",
+    "object": "signal(s )",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "Neurons",
+    "relation": "have",
+    "object": "state ,",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "neural networks",
+    "relation": "have",
+    "object": "thousand",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "neural networks",
+    "relation": "have",
+    "object": "million units millions connections",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "networks",
+    "relation": "perform",
+    "object": "tasks",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "user",
+    "relation": "review",
+    "object": "results",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "DNNs",
+    "relation": "model",
+    "object": "complex non - linear relationships",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "extra layers",
+    "relation": "enable",
+    "object": "composition features lower layers",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "Deep architectures",
+    "relation": "include",
+    "object": "variants basic approaches",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "architecture",
+    "relation": "find",
+    "object": "success specific domains",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "DNNs",
+    "relation": "be",
+    "object": "prone overfitting",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "Marega et al .",
+    "relation": "publish",
+    "object": "experiments",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "system",
+    "relation": "execute",
+    "object": "trillions multiply - accumulate operations second",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "Large - scale automatic speech recognition",
+    "relation": "be",
+    "object": "convincing successful case deep learning",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "image classification",
+    "relation": "be",
+    "object": "theMNIST databasedata set",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "comprehensive list results set",
+    "relation": "be",
+    "object": "available",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "Deep learning - based image recognition",
+    "relation": "become",
+    "object": "superhuman",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "Deep learning - trained vehicles",
+    "relation": "interpret",
+    "object": "360 camera views",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "DNNs",
+    "relation": "prove",
+    "object": "themselves",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "key techniques field",
+    "relation": "be",
+    "object": "negative samplingandword embedding",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "AtomNet",
+    "relation": "be",
+    "object": "deep learning system structure - basedrational drug design",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "Recommendation systems",
+    "relation": "use",
+    "object": "deep learning",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "model",
+    "relation": "use",
+    "object": "hybrid collaborative content - based approach",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "Deep neural networks",
+    "relation": "show",
+    "object": "unparalleled performance inpredicting protein structure",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "information",
+    "relation": "form",
+    "object": "basis machine learning",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "researchers",
+    "relation": "atgoogle",
+    "object": "DeepMindandLawrence Berkeley",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "system",
+    "relation": "contribute",
+    "object": "tomaterials",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "data newly discovered materials",
+    "relation": "be",
+    "object": "publicly available",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "United States Department Defense",
+    "relation": "apply",
+    "object": "deep learning",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "PINNs",
+    "relation": "leverage",
+    "object": "power deep learning",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "works",
+    "relation": "show",
+    "object": "better superior performance deep learning methods",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "works",
+    "relation": "show",
+    "object": ", e.g. , spectral imagingand ultrasound imaging",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "Traditional weather prediction systems",
+    "relation": "solve",
+    "object": "complex system partial differential equations",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "epigenetic clock",
+    "relation": "be",
+    "object": "abiochemical testthat measure age",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "Galkin et",
+    "relation": "use",
+    "object": "deep neural networks",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "al",
+    "relation": "use",
+    "object": "deep neural networks",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": ".",
+    "relation": "use",
+    "object": "deep neural networks",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "computations performed deep learning units",
+    "relation": "be",
+    "object": "similar actual neuronsand neural populations",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "Facebook AI lab",
+    "relation": "perform",
+    "object": "tasks",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "Deep learning",
+    "relation": "attract",
+    "object": "criticism comment",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "main criticism",
+    "relation": "concern",
+    "object": "lack theory surrounding methods",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "fashion",
+    "relation": "identify",
+    "object": "focal points",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "modified images",
+    "relation": "look",
+    "object": "different human eyes",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "defense",
+    "relation": "be",
+    "object": "reverse image search , possible fake image submitted site",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "researchers",
+    "relation": "add",
+    "object": "stickers",
+    "source": "Deep_learning",
+    "title": "Deep learning"
+  },
+  {
+    "subject": "vectors",
+    "relation": "capture",
+    "object": "information meaning word based surrounding words",
+    "source": "Word2vec",
+    "title": "Word2vec"
+  },
+  {
+    "subject": "word2vec algorithm",
+    "relation": "estimate",
+    "object": "representations",
+    "source": "Word2vec",
+    "title": "Word2vec"
+  },
+  {
+    "subject": "Word2vec",
+    "relation": "be",
+    "object": "group related models produceword embeddings",
+    "source": "Word2vec",
+    "title": "Word2vec"
+  },
+  {
+    "subject": "models",
+    "relation": "be",
+    "object": "shallow",
+    "source": "Word2vec",
+    "title": "Word2vec"
+  },
+  {
+    "subject": "word2vec",
+    "relation": "consider",
+    "object": "individual words sliding context window iterates corpus",
+    "source": "Word2vec",
+    "title": "Word2vec"
+  },
+  {
+    "subject": "Words semantically similar",
+    "relation": "influence",
+    "object": "probabilities",
+    "source": "Word2vec",
+    "title": "Word2vec"
+  },
+  {
+    "subject": "CBOW skip - gram",
+    "relation": "be",
+    "object": "methods learn vector word appearing corpus",
+    "source": "Word2vec",
+    "title": "Word2vec"
+  },
+  {
+    "subject": "LetV{\\displaystyle V}(\"vocabulary",
+    "relation": "be",
+    "object": "set words appearing corpusC{\\displaystyle C",
+    "source": "Word2vec",
+    "title": "Word2vec"
+  },
+  {
+    "subject": "output neural network",
+    "relation": "be",
+    "object": "probability distribution dictionary",
+    "source": "Word2vec",
+    "title": "Word2vec"
+  },
+  {
+    "subject": "set relative indexes neighbor words",
+    "relation": "be",
+    "object": "N= { 2 , 1,+1,+2}{\\displaystyle N=\\{-2,-1,+1,+2\\ } } ,",
+    "source": "Word2vec",
+    "title": "Word2vec"
+  },
+  {
+    "subject": "row",
+    "relation": "be",
+    "object": "word vectorv { \\displaystyle v ' }",
+    "source": "Word2vec",
+    "title": "Word2vec"
+  },
+  {
+    "subject": "we",
+    "relation": "have",
+    "object": "trained matricesV , V { \\displaystyle V , V ' }",
+    "source": "Word2vec",
+    "title": "Word2vec"
+  },
+  {
+    "subject": "column",
+    "relation": "vector",
+    "object": "ofV{\\displaystyle V}or",
+    "source": "Word2vec",
+    "title": "Word2vec"
+  },
+  {
+    "subject": "architecture",
+    "relation": "be",
+    "object": "linear - linear - softmax ,",
+    "source": "Word2vec",
+    "title": "Word2vec"
+  },
+  {
+    "subject": "It",
+    "relation": "take",
+    "object": "months",
+    "source": "Word2vec",
+    "title": "Word2vec"
+  },
+  {
+    "subject": "researchers",
+    "relation": "help",
+    "object": "analyse",
+    "source": "Word2vec",
+    "title": "Word2vec"
+  },
+  {
+    "subject": "Embedding vectors created Word2vec algorithm",
+    "relation": "have",
+    "object": "advantages",
+    "source": "Word2vec",
+    "title": "Word2vec"
+  },
+  {
+    "subject": "Results word2vec training",
+    "relation": "be",
+    "object": "sensitive toparametrization",
+    "source": "Word2vec",
+    "title": "Word2vec"
+  },
+  {
+    "subject": "following",
+    "relation": "be",
+    "object": "important parameters word2vec training",
+    "source": "Word2vec",
+    "title": "Word2vec"
+  },
+  {
+    "subject": "hierarchical softmax method",
+    "relation": "use",
+    "object": "aHuffman treeto",
+    "source": "Word2vec",
+    "title": "Word2vec"
+  },
+  {
+    "subject": "negative sampling method",
+    "relation": "approach",
+    "object": "maximization problem",
+    "source": "Word2vec",
+    "title": "Word2vec"
+  },
+  {
+    "subject": "doc2vec",
+    "relation": "utilize",
+    "object": "either model architectures ,",
+    "source": "Word2vec",
+    "title": "Word2vec"
+  },
+  {
+    "subject": ", Distributed Memory Model Paragraph Vectors ( PV - DM )",
+    "relation": "be",
+    "object": "identical CBOW",
+    "source": "Word2vec",
+    "title": "Word2vec"
+  },
+  {
+    "subject": "top2vec",
+    "relation": "search",
+    "object": "semantic space",
+    "source": "Word2vec",
+    "title": "Word2vec"
+  },
+  {
+    "subject": "similar variant , dna2vec ,",
+    "relation": "show",
+    "object": "similarityof dna2vec word vectors",
+    "source": "Word2vec",
+    "title": "Word2vec"
+  },
+  {
+    "subject": "IWE",
+    "relation": "combine",
+    "object": "Word2vec",
+    "source": "Word2vec",
+    "title": "Word2vec"
+  },
+  {
+    "subject": "this",
+    "relation": "explain",
+    "object": "properties word embeddings , including use solve analogies",
+    "source": "Word2vec",
+    "title": "Word2vec"
+  },
+  {
+    "subject": "word embedding approach",
+    "relation": "be",
+    "object": "able capture multiple different degrees similarity words",
+    "source": "Word2vec",
+    "title": "Word2vec"
+  },
+  {
+    "subject": "use different model parameters different corpus sizes",
+    "relation": "affect",
+    "object": "quality word2vec model",
+    "source": "Word2vec",
+    "title": "Word2vec"
+  },
+  {
+    "subject": "CBOW",
+    "relation": "be",
+    "object": "computationally expensive",
+    "source": "Word2vec",
+    "title": "Word2vec"
+  },
+  {
+    "subject": "Altszyler coauthors ( 2017 )",
+    "relation": "study",
+    "object": "Word2vec performance semantic tests different corpus size",
+    "source": "Word2vec",
+    "title": "Word2vec"
+  },
+  {
+    "subject": "LSA",
+    "relation": "show",
+    "object": "better performance",
+    "source": "Word2vec",
+    "title": "Word2vec"
+  },
+  {
+    "subject": "Reinforcement learning",
+    "relation": "be",
+    "object": "one thethree basic machine learning paradigms",
+    "source": "Reinforcement_learning",
+    "title": "Reinforcement learning"
+  },
+  {
+    "subject": "agent",
+    "relation": "have",
+    "object": "access subset states",
+    "source": "Reinforcement_learning",
+    "title": "Reinforcement learning"
+  },
+  {
+    "subject": "method",
+    "relation": "be",
+    "object": "\\displaystyle \\varepsilon } -greedy ,",
+    "source": "Reinforcement_learning",
+    "title": "Reinforcement learning"
+  },
+  {
+    "subject": "method",
+    "relation": "be",
+    "object": "<",
+    "source": "Reinforcement_learning",
+    "title": "Reinforcement learning"
+  },
+  {
+    "subject": "method",
+    "relation": "be",
+    "object": "1{\\displaystyle 0<\\varepsilon",
+    "source": "Reinforcement_learning",
+    "title": "Reinforcement learning"
+  },
+  {
+    "subject": "method",
+    "relation": "be",
+    "object": "1}is",
+    "source": "Reinforcement_learning",
+    "title": "Reinforcement learning"
+  },
+  {
+    "subject": "method",
+    "relation": "be",
+    "object": "parameter controlling exploration vs. exploitation",
+    "source": "Reinforcement_learning",
+    "title": "Reinforcement learning"
+  },
+  {
+    "subject": "\\displaystyle \\varepsilon",
+    "relation": "be",
+    "object": "fixed parameter",
+    "source": "Reinforcement_learning",
+    "title": "Reinforcement learning"
+  },
+  {
+    "subject": "policy map",
+    "relation": "give",
+    "object": "probability taking actiona{\\displaystyle",
+    "source": "Reinforcement_learning",
+    "title": "Reinforcement learning"
+  },
+  {
+    "subject": "state - value functionV ( s){\\displaystyle V_{\\pi",
+    "relation": "expect",
+    "object": "discounted returnstarting states{\\displaystyle s",
+    "source": "Reinforcement_learning",
+    "title": "Reinforcement learning"
+  },
+  {
+    "subject": "policy",
+    "relation": "be",
+    "object": "optimal",
+    "source": "Reinforcement_learning",
+    "title": "Reinforcement learning"
+  },
+  {
+    "subject": "policy achieves optimal state - values state",
+    "relation": "be",
+    "object": "calledoptimal",
+    "source": "Reinforcement_learning",
+    "title": "Reinforcement learning"
+  },
+  {
+    "subject": "policy optimal sense",
+    "relation": "be",
+    "object": "optimal",
+    "source": "Reinforcement_learning",
+    "title": "Reinforcement learning"
+  },
+  {
+    "subject": "that",
+    "relation": "converge",
+    "object": "toQ",
+    "source": "Reinforcement_learning",
+    "title": "Reinforcement learning"
+  },
+  {
+    "subject": "that",
+    "relation": "converge",
+    "object": "{ \\displaystyle Q^ { * } }",
+    "source": "Reinforcement_learning",
+    "title": "Reinforcement learning"
+  },
+  {
+    "subject": "Monte Carlo methods",
+    "relation": "learn",
+    "object": "functions",
+    "source": "Reinforcement_learning",
+    "title": "Reinforcement learning"
+  },
+  {
+    "subject": "This",
+    "relation": "be",
+    "object": "problematic",
+    "source": "Reinforcement_learning",
+    "title": "Reinforcement learning"
+  },
+  {
+    "subject": "current algorithms",
+    "relation": "do",
+    "object": "this",
+    "source": "Reinforcement_learning",
+    "title": "Reinforcement learning"
+  },
+  {
+    "subject": "computation TD methods",
+    "relation": "be",
+    "object": "incremental",
+    "source": "Reinforcement_learning",
+    "title": "Reinforcement learning"
+  },
+  {
+    "subject": "Batch methods , - squares temporal difference method ,",
+    "relation": "use",
+    "object": "information samples",
+    "source": "Reinforcement_learning",
+    "title": "Reinforcement learning"
+  },
+  {
+    "subject": "Methods based temporal differences",
+    "relation": "overcome",
+    "object": "fourth issue",
+    "source": "Reinforcement_learning",
+    "title": "Reinforcement learning"
+  },
+  {
+    "subject": "This",
+    "relation": "be",
+    "object": "effective palliating issue",
+    "source": "Reinforcement_learning",
+    "title": "Reinforcement learning"
+  },
+  {
+    "subject": "approaches available",
+    "relation": "be",
+    "object": "gradient - based gradient - free methods",
+    "source": "Reinforcement_learning",
+    "title": "Reinforcement learning"
+  },
+  {
+    "subject": "function",
+    "relation": "be",
+    "object": "differentiable",
+    "source": "Reinforcement_learning",
+    "title": "Reinforcement learning"
+  },
+  {
+    "subject": "one",
+    "relation": "usegradient",
+    "object": "ascent",
+    "source": "Reinforcement_learning",
+    "title": "Reinforcement learning"
+  },
+  {
+    "subject": "noisy estimate",
+    "relation": "be",
+    "object": "available",
+    "source": "Reinforcement_learning",
+    "title": "Reinforcement learning"
+  },
+  {
+    "subject": "gradient - free methods",
+    "relation": "achieve",
+    "object": "global optimum",
+    "source": "Reinforcement_learning",
+    "title": "Reinforcement learning"
+  },
+  {
+    "subject": "Model - based methods",
+    "relation": "be",
+    "object": "computationally intensive model - free approaches",
+    "source": "Reinforcement_learning",
+    "title": "Reinforcement learning"
+  },
+  {
+    "subject": "following table",
+    "relation": "list",
+    "object": "key algorithms learning policy depending criteria",
+    "source": "Reinforcement_learning",
+    "title": "Reinforcement learning"
+  },
+  {
+    "subject": "Associative reinforcement learning tasks",
+    "relation": "combine",
+    "object": "facets stochastic learning automata tasks",
+    "source": "Reinforcement_learning",
+    "title": "Reinforcement learning"
+  },
+  {
+    "subject": "approach",
+    "relation": "extend",
+    "object": "reinforcement learning",
+    "source": "Reinforcement_learning",
+    "title": "Reinforcement learning"
+  },
+  {
+    "subject": "It",
+    "relation": "be",
+    "object": "distinct frommulti - objective optimizationin",
+    "source": "Reinforcement_learning",
+    "title": "Reinforcement learning"
+  },
+  {
+    "subject": "it",
+    "relation": "include",
+    "object": "state evaluation",
+    "source": "Reinforcement_learning",
+    "title": "Reinforcement learning"
+  },
+  {
+    "subject": "self - reinforcement algorithm",
+    "relation": "update",
+    "object": "memory matrixW= w(a , s ) { \\displaystyle W=\\|w(a ,",
+    "source": "Reinforcement_learning",
+    "title": "Reinforcement learning"
+  },
+  {
+    "subject": "It",
+    "relation": "be",
+    "object": "system input ( situation ) ,",
+    "source": "Reinforcement_learning",
+    "title": "Reinforcement learning"
+  },
+  {
+    "subject": "Efficient comparison RL algorithms",
+    "relation": "be",
+    "object": "essential research , deployment monitoring RL systems",
+    "source": "Reinforcement_learning",
+    "title": "Reinforcement learning"
+  },
+  {
+    "subject": "this",
+    "relation": "cause",
+    "object": "loss information",
+    "source": "Reinforcement_learning",
+    "title": "Reinforcement learning"
+  },
+  {
+    "subject": "RL systems trained biased data",
+    "relation": "perpetuate",
+    "object": "existing biases",
+    "source": "Reinforcement_learning",
+    "title": "Reinforcement learning"
+  },
+  {
+    "subject": "Both issues",
+    "relation": "require",
+    "object": "careful consideration reward structures data sources",
+    "source": "Reinforcement_learning",
+    "title": "Reinforcement learning"
+  },
+  {
+    "subject": "reinforcement learning",
+    "relation": "become",
+    "object": "significant concept innatural language processing(NLP )",
+    "source": "Reinforcement_learning",
+    "title": "Reinforcement learning"
+  },
+  {
+    "subject": "DeepSeek - R1",
+    "relation": "achieve",
+    "object": "performance comparable OpenAI - o1 - 1217",
+    "source": "Reinforcement_learning",
+    "title": "Reinforcement learning"
+  }
+]
